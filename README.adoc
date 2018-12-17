@@ -11,7 +11,7 @@ To run this booster on your local host:
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ git clone git@github.com:${loggedUser}/spacey4
+$ git clone git@github.com:nuralivirani/spacey4
 
 $ cd spacey4
 
